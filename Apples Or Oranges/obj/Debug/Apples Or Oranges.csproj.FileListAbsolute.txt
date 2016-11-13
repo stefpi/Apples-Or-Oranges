@@ -1,0 +1,6 @@
+c:\users\stefpi\documents\visual studio 15\Projects\Apples Or Oranges\Apples Or Oranges\bin\Debug\Apples Or Oranges.exe.config
+c:\users\stefpi\documents\visual studio 15\Projects\Apples Or Oranges\Apples Or Oranges\bin\Debug\Apples Or Oranges.exe
+c:\users\stefpi\documents\visual studio 15\Projects\Apples Or Oranges\Apples Or Oranges\bin\Debug\Apples Or Oranges.pdb
+c:\users\stefpi\documents\visual studio 15\Projects\Apples Or Oranges\Apples Or Oranges\obj\Debug\Apples Or Oranges.csprojResolveAssemblyReference.cache
+c:\users\stefpi\documents\visual studio 15\Projects\Apples Or Oranges\Apples Or Oranges\obj\Debug\Apples Or Oranges.exe
+c:\users\stefpi\documents\visual studio 15\Projects\Apples Or Oranges\Apples Or Oranges\obj\Debug\Apples Or Oranges.pdb
